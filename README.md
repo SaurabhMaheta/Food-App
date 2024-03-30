@@ -1,1 +1,13 @@
-# Food-App
+# Food-App![Screenshot 2024-03-30 at 1 16 42 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/9550cab3-fc95-42b7-914f-1600a150397a)
+![Screenshot 2024-03-30 at 1 16 34 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/b349d024-833d-4648-ab3e-bfd05d854fbe)
+![Screenshot 2024-03-30 at 1 16 21 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/2c487730-0a5a-41ab-9c91-4c6789c4772e)
+![Screenshot 2024-03-30 at 1 16 06 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/b6128b61-0e3f-45a3-8b2d-69701f4ac198)
+![Screenshot 2024-03-30 at 1 15 54 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/4a826983-9afb-42be-941f-fddd463faa2a)
+![Screenshot 2024-03-30 at 1 14 50 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/d0b901a4-ef6c-48a1-8115-4cdee5f6d282)
+![Screenshot 2024-03-30 at 1 18 34 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/1faa2966-6432-4150-bc8d-195943ea9f2c)
+![Screenshot 2024-03-30 at 1 18 27 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/e9a3c45b-472a-486c-8cca-b29ff874cca6)
+![Screenshot 2024-03-30 at 1 18 18 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/9300c3a2-149b-46a5-b0dd-0f13b8fe0567)![Screenshot 2024-03-30 at 1 16 50 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/b504c963-8425-40f1-ad5c-307514ba94c3)
+![Screenshot 2024-03-30 at 1 17 24 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/3955b26d-10ae-4d4c-acbd-b22acca9106d)
+
+![Screenshot 2024-03-30 at 1 18 05 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/55e1718d-3415-4f43-84b5-ad9ee0b6e0de)
+![Screenshot 2024-03-30 at 1 17 39 PM](https://github.com/SaurabhMaheta/Food-App/assets/154210709/e8dd0267-177b-47fc-be5b-e20123ad2367)
